@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "joplin.plugin.highlighter",
+	"app_min_version": "1.7.4",
+	"version": "0.1.0",
+	"name": "highlighter",
+	"description": "highlight text",
+	"author": "D Edwards",
+	"homepage_url": "https://github.com/JoplinDave/joplin-plugin-highlighter",
+	"repository_url": "https://github.com/JoplinDave/joplin-plugin-highlighter",
+	"keywords": ["highlight", "mark", "backgroung colour"]
+}
