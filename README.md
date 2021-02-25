@@ -1,4 +1,4 @@
-# Joplin Inline Tags Plugin
+# Joplin Highlighter Plugin
 
 A plugin for [Joplin](https://joplinapp.org/) that allows notes to be highlighted using the `MARK` tag or a `SPAN` tag with background colour.
 
